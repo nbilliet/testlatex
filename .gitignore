@@ -194,6 +194,7 @@ pythontex-files-*/
 
 # todonotes
 *.tdo
+test.pdf
 
 # easy-todo
 *.lod
